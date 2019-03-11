@@ -1,1 +1,3 @@
-# sorteio_em_arduino
+# Mini curso de Arduino
+
+Mini curso metrocamp
